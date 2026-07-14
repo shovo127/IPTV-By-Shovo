@@ -1140,6 +1140,8 @@ http://94.230.128.107:8080/5_kanal/index.m3u8
 http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-id="Channel7.th@SD" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="General",Channel 7 (1080p)
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTINF:-1 tvg-id="Channel7Kazakhstan.kz@SD" tvg-logo="https://i.imgur.com/LebKU09.png" group-title="General",Channel 7 Kazakhstan (1080p) [Geo-blocked]
+https://adpnetworkhd-cmd.github.io/iptv/7_kanal_Kazakhstan.m3u8
 #EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="Entertainment",Channel 8 (576p)
 http://45.11.139.43:8555/8kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel8.th@SD" tvg-logo="https://i.imgur.com/P3c5jAu.png" group-title="General",Channel 8 (1080p) [Not 24/7]

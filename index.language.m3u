@@ -14005,6 +14005,8 @@ https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz@SD" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" group-title="Kazakh",Balapan (1080p)
 https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 tvg-id="Channel7Kazakhstan.kz@SD" tvg-logo="https://i.imgur.com/LebKU09.png" group-title="Kazakh",Channel 7 Kazakhstan (1080p) [Geo-blocked]
+https://adpnetworkhd-cmd.github.io/iptv/7_kanal_Kazakhstan.m3u8
 #EXTINF:-1 tvg-id="Ertis.kz@SD" tvg-logo="https://i.imgur.com/tghMiwW.png" group-title="Kazakh",Ertis (1080p) [Not 24/7]
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
 #EXTINF:-1 tvg-id="Jambyl.kz@SD" tvg-logo="https://i.imgur.com/X7N3JK4.png" group-title="Kazakh",Jambyl (360p) [Not 24/7]
@@ -17423,6 +17425,8 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="Russian",Channel 5 International (576p)
 http://178.134.1.158:8081/5channel/index.m3u8
+#EXTINF:-1 tvg-id="Channel7Kazakhstan.kz@SD" tvg-logo="https://i.imgur.com/LebKU09.png" group-title="Russian",Channel 7 Kazakhstan (1080p) [Geo-blocked]
+https://adpnetworkhd-cmd.github.io/iptv/7_kanal_Kazakhstan.m3u8
 #EXTINF:-1 tvg-id="Channel8.ru@SD" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="Russian",Channel 8 (576p)
 http://45.11.139.43:8555/8kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel8International.ru@SD" tvg-logo="https://i.imgur.com/I8OU9oa.png" group-title="Russian",Channel 8 International (576p)
