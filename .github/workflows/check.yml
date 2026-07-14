@@ -12,19 +12,19 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
       - name: Get list of changed files
         id: files
         run: |
-          git fetch origin master:master
+          git fetch origin main:main
           ANY_CHANGED=false
-          ALL_CHANGED_FILES=$(git diff --diff-filter=ACMRT --name-only master -- streams/ | tr '\n' ' ')
+          ALL_CHANGED_FILES=$(git diff --diff-filter=ACMRT --name-only main -- streams/ | tr '\n' ' ')
           if [ -n "${ALL_CHANGED_FILES}" ]; then
             ANY_CHANGED=true
           fi
           echo "all_changed_files=$ALL_CHANGED_FILES" >> "$GITHUB_OUTPUT"
           echo "any_changed=$ANY_CHANGED" >> "$GITHUB_OUTPUT"
-      - uses: actions/setup-node@v6
+      - uses: actions/setup-node@v4
         if: steps.files.outputs.any_changed == 'true'
         with:
           node-version: 22
