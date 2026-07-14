@@ -33,6 +33,11 @@ jobs:
         run: npm run playlist:export
       - name: Update readme
         run: npm run readme:update
+      - name: Copy static files to .gh-pages
+        run: |
+          if [ -d "static" ]; then
+            cp -r static/. .gh-pages/
+          fi
       - name: Setup git
         run: |
           git config user.name "github-actions[bot]"
