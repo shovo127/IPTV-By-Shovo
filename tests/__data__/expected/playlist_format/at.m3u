@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="",Hitradio O3 (1080p)
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
+#EXTINF:-1 tvg-id="",Hitradio O3 (720p)
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd

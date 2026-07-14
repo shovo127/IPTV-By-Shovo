@@ -1,0 +1,10 @@
+node_modules
+.artifacts
+.secrets
+.actrc
+.DS_Store
+Thumbs.db
+/.gh-pages/
+/.api/
+.env
+/temp/

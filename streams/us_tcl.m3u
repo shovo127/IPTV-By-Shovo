@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Docurama.us@SD",Docurama (1080p)
+https://docurama-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us@SD",Unbeaten (1080p)
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us@SD",Young Hollywood (720p)
+https://younghollywood-tcl.amagi.tv/playlist.m3u8

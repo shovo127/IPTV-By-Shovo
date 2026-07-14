@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  -->
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" type="dynamic" availabilityStartTime="1970-01-01T00:00:00Z" publishTime="2026-03-24T17:45:06.924442Z" minimumUpdatePeriod="PT4S" timeShiftBufferDepth="PT31.840S" maxSegmentDuration="PT5S" minBufferTime="PT2S" profiles="urn:hbbtv:dash:profile:isoff-live:2012,urn:hbbtv:dash:profile:isoff-live:2012">
+  <Period id="1" start="PT0S">
+    <BaseURL>dash/</BaseURL>
+    <AdaptationSet id="1" group="1" contentType="audio" segmentAlignment="true" audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000" initialization="studiocam_oe3-$RepresentationID$.dash" media="studiocam_oe3-$RepresentationID$-$Time$.dash">
+        <!-- 2026-03-24T17:44:28.465875Z / 1774374268 - 2026-03-24T17:45:00.316541Z -->
+        <SegmentTimeline>
+          <S t="85169964886362" d="230400"/>
+          <S d="207872"/>
+          <S d="160768"/>
+          <S d="219136"/>
+          <S d="189440"/>
+          <S d="179200"/>
+          <S d="160768"/>
+          <S d="181248"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_192257_und=192000" bandwidth="192000">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="2" contentType="video" par="16:9" segmentAlignment="true" width="1280" height="720" sar="1:1" frameRate="50" mimeType="video/mp4" codecs="avc1.4D4028" startWithSAP="1">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="600" initialization="studiocam_oe3-$RepresentationID$.dash" media="studiocam_oe3-$RepresentationID$-$Time$.dash">
+        <!-- 2026-03-24T17:44:28.456666Z / 1774374268 - 2026-03-24T17:45:00.296666Z -->
+        <SegmentTimeline>
+          <S t="1064624561074" d="2880"/>
+          <S d="2592"/>
+          <S d="2016"/>
+          <S d="2736"/>
+          <S d="2376"/>
+          <S d="2232"/>
+          <S d="2016"/>
+          <S d="2256"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="video=2000000" bandwidth="2000000" scanType="progressive">
+      </Representation>
+    </AdaptationSet>
+  </Period>
+  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:http-iso:2014" value="https://time.akamai.com/?iso"/>
+</MPD>

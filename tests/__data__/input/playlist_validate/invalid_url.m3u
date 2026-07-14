@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel7.bz@SD",Channel 7
+new: https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8
