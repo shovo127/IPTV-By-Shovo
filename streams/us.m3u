@@ -2357,3 +2357,11 @@ http://177.234.218.66:8084/play/a001/index.m3u8
 http://177.234.218.66:8084/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="NorCastWeather.us@HD",NorCast Weather (1080p)
 https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8
+#EXTINF:-1 tvg-id="SYFY.us@East",SYFY (1080p)
+https://gpuserver5.tier1streams.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (1080p)
+https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusDriveIn.us@SD",MGM+ Drive-In (720p)
+http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
+#EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
+http://40.160.24.55/WGN/index.m3u8
