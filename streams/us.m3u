@@ -2365,3 +2365,9 @@ https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8
 http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
 #EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
 http://40.160.24.55/WGN/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East",TeenNick (576p)
+http://tvsen7.aynascope.net/teennick/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us@East",CBS (576p)
+http://tvsen7.aynascope.net/cbs/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@East",Fox (720p)
+http://stream.cammonitorplus.net/1752/index.m3u8
