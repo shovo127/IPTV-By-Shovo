@@ -269,6 +269,8 @@ https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-a
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ann-channel/index.m3u8?ads.vf=K6lWytDiscO
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Antiques Road Show UK (720p)
 https://jmp2.uk/plu-638e10de75c3a30007092693.m3u8
+#EXTINF:-1 tvg-id="AP1TV.np@SD" tvg-logo="" group-title="Undefined",AP1 TV (720p)
+http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",APTN Beyond (720p)
 https://jmp2.uk/plu-68b9afd66985e192657a2b7f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Archivos Extraterrestres
