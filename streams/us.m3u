@@ -2371,3 +2371,7 @@ http://tvsen7.aynascope.net/teennick/index.m3u8
 http://tvsen7.aynascope.net/cbs/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us@East",Fox (720p)
 http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us@SD",Laff (576p)
+http://tvsen7.aynascope.net/laff/index.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD",DreamWorks Channel Latin America (1080p)
+https://live.nxplay.com.br/DREAMWORKS/index.m3u8
