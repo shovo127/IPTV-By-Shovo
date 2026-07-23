@@ -220,3 +220,7 @@ http://190.104.15.135/0.ts
 https://www.sccbolivia.com/dash/720p.mpd
 #EXTINF:-1 tvg-id="ZuracaTV.bo@SD",Zuraca TV (720p)
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
+#EXTINF:-1 tvg-id="RedDTV.bo@SD",Red DTV (1080p)
+http://15.204.246.24:8080/DTVHD/index.m3u8
+#EXTINF:-1 tvg-id="AYNITV.bo@SD",AYNI TV (1080p)
+http://15.204.246.24:8080/AyniTVHD/index.m3u8
