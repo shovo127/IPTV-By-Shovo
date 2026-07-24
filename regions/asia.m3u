@@ -386,7 +386,7 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsaf
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="DUST.us@SD" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Alien Nation by DUST (1080p)
 https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="" group-title="News",Alikhbaria Syria (1080p)
+#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp" group-title="News",Alikhbaria Syria (1080p)
 http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.lb@SD" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="Religious",Aliman TV (240p) [Not 24/7]
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
@@ -1356,7 +1356,7 @@ http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 #EXTINF:-1 tvg-id="DaNangTV2.vn@SD" tvg-logo="" group-title="General",Đà Nẵng TV2 (1080p) [Not 24/7]
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Education",Da Vinci (576p)
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="Education",Da Vinci (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-id="DaAi1.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -1368,7 +1368,7 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 https://mumt01.tangotv.in/DABANGG/index.m3u8
 #EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="General",Dali TV (大立電視台) (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="" group-title="Undefined",Damascus Radio (720p)
+#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="https://damasradio.fm/wp-content/uploads/2026/01/logo-red.svg" group-title="Undefined",Damascus Radio (720p)
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="DanceHits80.ru@SD" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Music",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
@@ -1501,7 +1501,7 @@ https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="DesiChannel.in@SD" tvg-logo="https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png" group-title="Entertainment",Desi Channel (720p)
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
-#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg" group-title="Kids",Detski mir (1080p)
+#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png" group-title="Kids",Detski mir (1080p)
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/detskij-mir-hd.m3u8
 #EXTINF:-1 tvg-id="DHA.tr@SD" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="News",DHA (720p) [Not 24/7]
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
@@ -4288,7 +4288,7 @@ https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kanna
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8
 #EXTINF:-1 tvg-id="Channel13.il@SD" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Reshet 13 (720p)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" group-title="Classic",Retro
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" group-title="Classic",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RiauTV.id@SD" tvg-logo="https://i.imgur.com/1g8FtJi.png" group-title="Undefined",Riau TV (1080p) [Not 24/7]
 http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
@@ -4813,7 +4813,7 @@ https://iptv.sohailtv.com/sohail/playlist/index.m3u8
 https://mumt03.tangotv.in/SOHAMTV/index.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://i.imgur.com/HCefxaK.png" group-title="Animation;Kids",Solnce (576p)
 http://31.148.48.15/Solnce/index.m3u8
-#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="Undefined",Solovyov Live (1080p)
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="Undefined",Solovyov Live (1080p)
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="SomoyNewsTV.bd@SD" tvg-logo="https://i.imgur.com/i54AQic.png" group-title="News",Somoy News TV (1080p)
 https://bozztv.com/rongo/rongo-somoy/index.m3u8

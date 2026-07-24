@@ -405,7 +405,7 @@ http://181.119.93.83:8000/play/a1jw/index.m3u8
 https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8
 #EXTINF:-1 tvg-id="DeshiTV.ca@SD" tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="General",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg" group-title="Kids",Detski mir (1080p)
+#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png" group-title="Kids",Detski mir (1080p)
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/detskij-mir-hd.m3u8
 #EXTINF:-1 tvg-id="DHE.us@SD" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="Movies",DHE (1080p)
 http://177.245.131.133:8080/DHE/index.m3u8
@@ -462,8 +462,6 @@ https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Animation",DreamWorks Channel Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://103.137.83.62:9090/play/30/index.m3u8
-#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" group-title="Animation",DreamWorks Channel Latin America (1080p)
-http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us@SD" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Relax;Travel",DroneTV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om
@@ -1612,6 +1610,8 @@ https://stream.skynewsarabia.com/ott/ott.m3u8
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae@HD" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="News",Sky News Arabia Vertical (1080p)
 https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 HD (1080p)
+https://xemzi.short.gy/2000005
 #EXTINF:-1 tvg-id="SlagerMuzika.cz@SD" tvg-logo="https://i.imgur.com/hKdXwrW.png" group-title="Music",Slager Muzika
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
 #EXTINF:-1 tvg-id="SlagerOriginal.cz@SD" tvg-logo="https://i.imgur.com/0YjeWcq.png" group-title="Music",Slager Original

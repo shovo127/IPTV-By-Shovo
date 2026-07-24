@@ -4901,6 +4901,12 @@ https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyRacing2.au@SD" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="Sports",Sky Racing 2 (720p)
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports",Sky Sports Cricket (1080p)
+https://xemzi.short.gy/2000006
+#EXTINF:-1 tvg-id="SkySportsF1.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 HD (1080p)
+https://xemzi.short.gy/2000005
+#EXTINF:-1 tvg-id="SkySportsGolf.ie@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="Sports",Sky Sports Golf HD (1080p)
+https://xemzi.short.gy/2000009
 #EXTINF:-1 tvg-id="SkyThoroughbredCentral.au@SD" tvg-logo="https://i.imgur.com/1SxIsnw.png" group-title="Sports",Sky Thoroughbred Central (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 #EXTINF:-1 tvg-id="Slice.ca@SD" tvg-logo="https://i.imgur.com/9UzQpum.png" group-title="Undefined",Slice (720p)

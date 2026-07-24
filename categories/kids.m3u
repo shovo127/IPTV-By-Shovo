@@ -149,7 +149,7 @@ https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=bac
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us@France" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512" group-title="Animation;Kids",Detective Conan France (720p)
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
-#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg" group-title="Kids",Detski mir (1080p)
+#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png" group-title="Kids",Detski mir (1080p)
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/detskij-mir-hd.m3u8
 #EXTINF:-1 tvg-id="DiosTeVeKids.hn@SD" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Kids;Religious",Dios Te Ve Kids (720p)
 https://s.emisoras.tv:8081/diostevekids/index.m3u8

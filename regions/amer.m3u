@@ -2479,8 +2479,6 @@ https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
 https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
 #EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD" tvg-logo="https://i.imgur.com/SFYhgrt.png" group-title="Sports",DraftKings Network (1080p)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
-#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" group-title="Animation",DreamWorks Channel Latin America (1080p)
-http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa@SD" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Animation",DreikoTv (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us@SD" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Relax;Travel",DroneTV (1080p)

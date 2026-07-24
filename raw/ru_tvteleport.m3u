@@ -201,7 +201,7 @@ http://31.148.48.15/Sapfir_HD/index.m3u8
 http://31.148.48.15/Sapfir/index.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="Undefined",Сарафан (576p)
 http://31.148.48.15/Sarafan/index.m3u8
-#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="Undefined",Соловьёв LIVE (576p)
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="Undefined",Соловьёв LIVE (576p)
 http://31.148.48.15/EuroNews/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family",СТС (+4) (576p)
 http://31.148.48.15/STS/index.m3u8

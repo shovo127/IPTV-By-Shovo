@@ -536,7 +536,7 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsaf
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="DUST.us@SD" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Alien Nation by DUST (1080p)
 https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="" group-title="News",Alikhbaria Syria (1080p)
+#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp" group-title="News",Alikhbaria Syria (1080p)
 http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.lb@SD" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="Religious",Aliman TV (240p) [Not 24/7]
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
@@ -2215,7 +2215,7 @@ http://185.102.171.218/Cytavisionsports1/index.m3u8
 http://185.102.171.218/Cytavisionsports2/index.m3u8
 #EXTINF:-1 tvg-id="D3TV.ml@SD" tvg-logo="https://i.imgur.com/uFEIBtB.png" group-title="Music",D3 TV (480p)
 https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Education",Da Vinci (576p)
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="Education",Da Vinci (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-id="DabangaTV.sd@SD" tvg-logo="https://i.imgur.com/BH1N6TA.png" group-title="Education;News",Dabanga TV (1080p)
 https://hls.dabangasudan.org/hls/stream.m3u8
@@ -2229,7 +2229,7 @@ https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
 https://jmp2.uk/plu-64e77016324d190008291c13.m3u8
 #EXTINF:-1 tvg-id="DallasCowboysCheerleaders.se@SE" tvg-logo="https://images.pluto.tv/channels/64e87c6b28cec700088ceb55/colorLogoPNG.png" group-title="Series",Dallas Cowboys Cheerleaders
 https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8
-#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="" group-title="Undefined",Damascus Radio (720p)
+#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="https://damasradio.fm/wp-content/uploads/2026/01/logo-red.svg" group-title="Undefined",Damascus Radio (720p)
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="DanceTelevision.nl@SD" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Music",Dance Television (1080p)
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
@@ -2320,7 +2320,7 @@ https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us@France" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512" group-title="Animation;Kids",Detective Conan France (720p)
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
-#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg" group-title="Kids",Detski mir (1080p)
+#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png" group-title="Kids",Detski mir (1080p)
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/detskij-mir-hd.m3u8
 #EXTINF:-1 tvg-id="DHA.tr@SD" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="News",DHA (720p) [Not 24/7]
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
@@ -7027,7 +7027,7 @@ https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8
 #EXTINF:-1 tvg-id="Reteveneta.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="Undefined",Reteveneta (480p)
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" group-title="Classic",Retro
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" group-title="Classic",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz@SD" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -7738,6 +7738,12 @@ https://stream.skynewsarabia.com/vertical/vertical.m3u8
 https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="Weather",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports",Sky Sports Cricket (1080p)
+https://xemzi.short.gy/2000006
+#EXTINF:-1 tvg-id="SkySportsF1.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 HD (1080p)
+https://xemzi.short.gy/2000005
+#EXTINF:-1 tvg-id="SkySportsGolf.ie@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="Sports",Sky Sports Golf HD (1080p)
+https://xemzi.short.gy/2000009
 #EXTINF:-1 tvg-id="SL1.ir@SD" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="Movies",SL 1
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL2.ir@SD" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="Movies",SL 2
@@ -7794,7 +7800,7 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://i.imgur.com/HCefxaK.png" group-title="Animation;Kids",Solnce (576p)
 http://31.148.48.15/Solnce/index.m3u8
-#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="Undefined",Solovyov Live (1080p)
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="Undefined",Solovyov Live (1080p)
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="SolTV.gq@SD" tvg-logo="https://i.imgur.com/TJHk6Va.png" group-title="Entertainment",SolTV (720p)
 https://stream.solmediaeg.com/soltv/soltv.m3u8

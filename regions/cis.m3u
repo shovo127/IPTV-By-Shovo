@@ -233,7 +233,7 @@ https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz@SD" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="News",Current Time TV (1080p)
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/currenttimehdraw/currenttimehdraw.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Education",Da Vinci (576p)
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="Education",Da Vinci (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-id="DanceHits80.ru@SD" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Music",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
@@ -241,7 +241,7 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="DenPobedy.ru@SD" tvg-logo="https://i.imgur.com/gY3XkoO.png" group-title="Undefined",Den Pobedy (1080p)
 https://tchaikovsky.af-stream.com:991/s/xzztutfc/den-pobedy-hd/video.m3u8
-#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg" group-title="Kids",Detski mir (1080p)
+#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png" group-title="Kids",Detski mir (1080p)
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/detskij-mir-hd.m3u8
 #EXTINF:-1 tvg-id="Dikij.ru@SD" tvg-logo="https://i.imgur.com/VDXDiPC.png" group-title="Outdoor",Dikij (576p)
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
@@ -694,7 +694,7 @@ http://31.148.48.15/REN-TV/index.m3u8
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 tvg-id="RenessansTV.uz@SD" tvg-logo="https://i.imgur.com/cVlcqCX.png" group-title="General",Renessans TV (576p)
 https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" group-title="Classic",Retro
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" group-title="Classic",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RikaTV.kz@SD" tvg-logo="https://i.imgur.com/KJHWZ3B.png" group-title="General",Rika TV (480p)
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
@@ -799,7 +799,7 @@ https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://i.imgur.com/HCefxaK.png" group-title="Animation;Kids",Solnce (576p)
 http://31.148.48.15/Solnce/index.m3u8
-#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="Undefined",Solovyov Live (1080p)
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="Undefined",Solovyov Live (1080p)
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Music",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8

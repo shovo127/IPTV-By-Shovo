@@ -1119,6 +1119,8 @@ https://jmp2.uk/plu-68f0f7dea362b63a8df50bd4.m3u8
 https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dragon Ball Z
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" group-title="Animation",DreamWorks Channel Latin America (1080p)
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drive + Speed (1080p)
 https://streams2.sofast.tv/umaxx/v1/0196fce247271eb4611d16bd20c1ac/0196fce2a9361ea5064918d106ecf8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drive In Movie Channel (1080p)

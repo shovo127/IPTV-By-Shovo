@@ -312,7 +312,7 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="AlhurraIraq.us@SD" tvg-logo="https://i.imgur.com/fsgQDcN.png" group-title="Arabic",Alhurra Iraq (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="" group-title="Arabic",Alikhbaria Syria (1080p)
+#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp" group-title="Arabic",Alikhbaria Syria (1080p)
 http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.lb@SD" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="Arabic",Aliman TV (240p) [Not 24/7]
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
@@ -451,7 +451,7 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 https://ctv.icopts.app/CTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="DabangaTV.sd@SD" tvg-logo="https://i.imgur.com/BH1N6TA.png" group-title="Arabic",Dabanga TV (1080p)
 https://hls.dabangasudan.org/hls/stream.m3u8
-#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="" group-title="Arabic",Damascus Radio (720p)
+#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="https://damasradio.fm/wp-content/uploads/2026/01/logo-red.svg" group-title="Arabic",Damascus Radio (720p)
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="DijlahTV.iq@SD" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="Arabic",Dijlah TV (1080p)
 https://ghaasiflu.online/Dijlah/index.m3u8
@@ -8013,6 +8013,12 @@ https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyRacing2.au@SD" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="English",Sky Racing 2 (720p)
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="English",Sky Sports Cricket (1080p)
+https://xemzi.short.gy/2000006
+#EXTINF:-1 tvg-id="SkySportsF1.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="English",Sky Sports F1 HD (1080p)
+https://xemzi.short.gy/2000005
+#EXTINF:-1 tvg-id="SkySportsGolf.ie@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="English",Sky Sports Golf HD (1080p)
+https://xemzi.short.gy/2000009
 #EXTINF:-1 tvg-id="SkyThoroughbredCentral.au@SD" tvg-logo="https://i.imgur.com/1SxIsnw.png" group-title="English",Sky Thoroughbred Central (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 #EXTINF:-1 tvg-id="Slice.ca@SD" tvg-logo="https://i.imgur.com/9UzQpum.png" group-title="English",Slice (720p)
@@ -17483,7 +17489,7 @@ http://de.russkoe-iptv.com:88/s/s-e3dc39e0/chizik-hd.m3u8
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz@SD" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="Russian",Current Time TV (1080p)
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/currenttimehdraw/currenttimehdraw.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Russian",Da Vinci (576p)
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="Russian",Da Vinci (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-id="Dacha.ua@SD" tvg-logo="https://i.imgur.com/xq6p9BZ.png" group-title="Russian",Dacha (1080p)
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
@@ -17493,7 +17499,7 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="DenPobedy.ru@SD" tvg-logo="https://i.imgur.com/gY3XkoO.png" group-title="Russian",Den Pobedy (1080p)
 https://tchaikovsky.af-stream.com:991/s/xzztutfc/den-pobedy-hd/video.m3u8
-#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg" group-title="Russian",Detski mir (1080p)
+#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png" group-title="Russian",Detski mir (1080p)
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/detskij-mir-hd.m3u8
 #EXTINF:-1 tvg-id="Dikij.ru@SD" tvg-logo="https://i.imgur.com/VDXDiPC.png" group-title="Russian",Dikij (576p)
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
@@ -17745,7 +17751,7 @@ http://hls127.freeott.top:8080/RBK/video.m3u8
 http://31.148.48.15/REN-TV/index.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru@Plus2" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="Russian",REN TV +2 (576p)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" group-title="Russian",Retro
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" group-title="Russian",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RikaTV.kz@SD" tvg-logo="https://i.imgur.com/KJHWZ3B.png" group-title="Russian",Rika TV (480p)
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
@@ -17824,7 +17830,7 @@ https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru@SD" tvg-logo="https://i.imgur.com/HCefxaK.png" group-title="Russian",Solnce (576p)
 http://31.148.48.15/Solnce/index.m3u8
-#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="Russian",Solovyov Live (1080p)
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="Russian",Solovyov Live (1080p)
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Russian",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
@@ -20311,8 +20317,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 http://45.162.193.35/DOCU/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDogelcazarrecompensas.us@SD" tvg-logo="https://i.imgur.com/h3kSZLc.png" group-title="Spanish",Dog el cazarrecompensas
 https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
-#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" group-title="Spanish",DreamWorks Channel Latin America (1080p)
-http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa@SD" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Spanish",DreikoTv (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Spanish",DSports (1080p)
@@ -26970,6 +26974,8 @@ https://jmp2.uk/plu-68f0f7dea362b63a8df50bd4.m3u8
 https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dragon Ball Z
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" group-title="Undefined",DreamWorks Channel Latin America (1080p)
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drive + Speed (1080p)
 https://streams2.sofast.tv/umaxx/v1/0196fce247271eb4611d16bd20c1ac/0196fce2a9361ea5064918d106ecf8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drive In Movie Channel (1080p)

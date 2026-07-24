@@ -699,7 +699,7 @@ https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
 #EXTINF:-1 tvg-id="Rawhide.se@SE" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" group-title="Classic",Rawhide
 https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
-#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://i.imgur.com/p21co1w.png" group-title="Classic",Retro
+#EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" group-title="Classic",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RetroTV.us@East" tvg-logo="https://i.imgur.com/iUTL0pm.png" group-title="Classic",Retro TV (720p)
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
@@ -2273,7 +2273,7 @@ https://cloudflare.tv/hls/live.m3u8
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="CreaTVChannel28.us@SD" tvg-logo="https://i.imgur.com/rvQdzL1.png" group-title="Education",CreaTV Classrooms Channel 28 (San Jose CA) (720p)
 https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Education",Da Vinci (576p)
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="Education",Da Vinci (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-id="DabangaTV.sd@SD" tvg-logo="https://i.imgur.com/BH1N6TA.png" group-title="Education",Dabanga TV (1080p)
 https://hls.dabangasudan.org/hls/stream.m3u8
@@ -10574,7 +10574,7 @@ https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=bac
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us@France" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512" group-title="Kids",Detective Conan France (720p)
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
-#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg" group-title="Kids",Detski mir (1080p)
+#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png" group-title="Kids",Detski mir (1080p)
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/detskij-mir-hd.m3u8
 #EXTINF:-1 tvg-id="DiosTeVeKids.hn@SD" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Kids",Dios Te Ve Kids (720p)
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
@@ -15283,7 +15283,7 @@ https://ghaasiflu.online/alhqeqa/index.m3u8
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="AlhurraIraq.us@SD" tvg-logo="https://i.imgur.com/fsgQDcN.png" group-title="News",Alhurra Iraq (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="" group-title="News",Alikhbaria Syria (1080p)
+#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp" group-title="News",Alikhbaria Syria (1080p)
 http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-id="AlmahriahTV.tr@SD" tvg-logo="https://i.imgur.com/GgEeTNr.png" group-title="News",Almahriah TV (576p)
 https://starmenajo.com/hls/almahriah/index.m3u8
@@ -21055,6 +21055,12 @@ https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyRacing2.au@SD" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="Sports",Sky Racing 2 (720p)
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports",Sky Sports Cricket (1080p)
+https://xemzi.short.gy/2000006
+#EXTINF:-1 tvg-id="SkySportsF1.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 HD (1080p)
+https://xemzi.short.gy/2000005
+#EXTINF:-1 tvg-id="SkySportsGolf.ie@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="Sports",Sky Sports Golf HD (1080p)
+https://xemzi.short.gy/2000009
 #EXTINF:-1 tvg-id="SkyThoroughbredCentral.au@SD" tvg-logo="https://i.imgur.com/1SxIsnw.png" group-title="Sports",Sky Thoroughbred Central (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 #EXTINF:-1 tvg-id="SlopesTV.us@SD" tvg-logo="https://i.imgur.com/8bzAfgK.png" group-title="Sports",Slopes TV (720p)
@@ -22911,7 +22917,7 @@ https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="DakLakTV.vn@HD" tvg-logo="https://i.imgur.com/gFfZvTW.png" group-title="Undefined",Đắk Lắk TV (720p)
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
-#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="" group-title="Undefined",Damascus Radio (720p)
+#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="https://damasradio.fm/wp-content/uploads/2026/01/logo-red.svg" group-title="Undefined",Damascus Radio (720p)
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dance Moms (1080p)
 https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
@@ -26216,7 +26222,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="SoliveTV.ar@SD" tvg-logo="https://i.imgur.com/dyUxugT.png" group-title="Undefined",Solive TV
 https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
-#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="Undefined",Solovyov Live (1080p)
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="Undefined",Solovyov Live (1080p)
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="SolTV.pe@SD" tvg-logo="https://i.imgur.com/GtNkuAc.png" http-referrer="https://soltvperu.com/" group-title="Undefined",SolTV
 #EXTVLCOPT:http-referrer=https://soltvperu.com/

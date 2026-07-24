@@ -1403,7 +1403,7 @@ https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="DakLakTV.vn@HD" tvg-logo="https://i.imgur.com/gFfZvTW.png" group-title="Undefined",Đắk Lắk TV (720p)
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
-#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="" group-title="Undefined",Damascus Radio (720p)
+#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="https://damasradio.fm/wp-content/uploads/2026/01/logo-red.svg" group-title="Undefined",Damascus Radio (720p)
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dance Moms (1080p)
 https://aegis-cloudfront-1.tubi.video/a9cb26a5-5662-400d-87b2-bd77b3e98295/playlist.m3u8
@@ -4708,7 +4708,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="SoliveTV.ar@SD" tvg-logo="https://i.imgur.com/dyUxugT.png" group-title="Undefined",Solive TV
 https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
-#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="Undefined",Solovyov Live (1080p)
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="Undefined",Solovyov Live (1080p)
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="SolTV.pe@SD" tvg-logo="https://i.imgur.com/GtNkuAc.png" http-referrer="https://soltvperu.com/" group-title="Undefined",SolTV
 #EXTVLCOPT:http-referrer=https://soltvperu.com/

@@ -358,3 +358,5 @@ https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 https://shift03.isp.bg/MTVEurope/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.uk@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (576p)
 http://tvsen7.aynascope.net/nicklodean/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 HD (1080p)
+https://xemzi.short.gy/2000005

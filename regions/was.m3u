@@ -232,7 +232,7 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsaf
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="DUST.us@SD" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Alien Nation by DUST (1080p)
 https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="" group-title="News",Alikhbaria Syria (1080p)
+#EXTINF:-1 tvg-id="AlikhbariaSyria.sy@SD" tvg-logo="https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp" group-title="News",Alikhbaria Syria (1080p)
 http://185.9.2.18/chid_423/index.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.lb@SD" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="Religious",Aliman TV (240p) [Not 24/7]
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
@@ -534,7 +534,7 @@ http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 http://185.102.171.218/Cytavisionsports1/index.m3u8
 #EXTINF:-1 tvg-id="CytavisionSports2.cy@SD" tvg-logo="https://i.imgur.com/YAJdd5x.png" group-title="Sports",Cytavision Sports 2 (1080p)
 http://185.102.171.218/Cytavisionsports2/index.m3u8
-#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="" group-title="Undefined",Damascus Radio (720p)
+#EXTINF:-1 tvg-id="DamascusRadio.sy@SD" tvg-logo="https://damasradio.fm/wp-content/uploads/2026/01/logo-red.svg" group-title="Undefined",Damascus Radio (720p)
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="DatisTV.ir@SD" tvg-logo="" group-title="Undefined",Datis TV
 https://dathls.wns.live/hls/stream.m3u8
@@ -544,7 +544,7 @@ https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
 https://ncdn.telewebion.ir/dena/live/playlist.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr@SD" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="General",Deniz Postası TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg" group-title="Kids",Detski mir (1080p)
+#EXTINF:-1 tvg-id="Detskimir.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png" group-title="Kids",Detski mir (1080p)
 http://de.russkoe-iptv.com:88/s/s-e3dc39e0/detskij-mir-hd.m3u8
 #EXTINF:-1 tvg-id="DHA.tr@SD" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="News",DHA (720p) [Not 24/7]
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8

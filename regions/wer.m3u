@@ -2084,6 +2084,12 @@ http://80.194.62.172:50002/stream/channelid/1848745953
 http://41.205.77.102/SKYNEWS/index.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" group-title="Weather",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports",Sky Sports Cricket (1080p)
+https://xemzi.short.gy/2000006
+#EXTINF:-1 tvg-id="SkySportsF1.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 HD (1080p)
+https://xemzi.short.gy/2000005
+#EXTINF:-1 tvg-id="SkySportsGolf.ie@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title="Sports",Sky Sports Golf HD (1080p)
+https://xemzi.short.gy/2000009
 #EXTINF:-1 tvg-id="SleutelstadTV.nl@SD" tvg-logo="https://i.imgur.com/ljVGMWV.png" group-title="General",Sleutelstad TV (720p)
 https://samson.streamerr.co:8081/sleutelstad/index.m3u8
 #EXTINF:-1 tvg-id="SlotstadTV.nl@SD" tvg-logo="https://i.imgur.com/NXCUiuF.png" group-title="Undefined",Slotstad TV (720p)
